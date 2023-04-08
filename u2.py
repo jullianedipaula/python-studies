@@ -182,17 +182,3 @@ elif delta == 0:
     print("Raiz única")
 elif delta > 0:
     print(f"x'{x1} e x''{x2}")
-
-#EXERCÍCIO 12
-
-#EXERCÍCIO 13
-
-#EXERCÍCIO 14
-
-#EXERCÍCIO 15
-
-#EXERCÍCIO 16
-
-#EXERCÍCIO 17
-
-#EXERCÍCIO 18
